@@ -55,6 +55,11 @@ const data={
             url:"https://github.com/hari0409/Takeit-note-taking-app",
             img:"./Projects/notes.jpg"
         },
+        {
+            title:"Portfolio App",
+            url:"https://github.com/hari0409/Portfolio-Next-js",
+            img:"./Projects/portfolio.jpg"
+        }
     ],
     avatarUrl:"./Fave.jpg",
     PlanetOne:"./Planet/planet.svg",
