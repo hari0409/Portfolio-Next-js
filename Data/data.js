@@ -4,7 +4,7 @@ const data={
     instaLink:"https://www.instagram.com/hari.0409/",
     githubLink:"https://github.com/hari0409",
     linkedInLink:"https://www.linkedin.com/in/hari-baskar-s-a28553226/",
-    resume:"https://drive.google.com/file/d/1gBdJxsdQCUB0p_eG_G4Ti35y1AJJOYxY/view?usp=sharing",
+    resume:"https://drive.google.com/file/d/1oJm7B4LdMeJpuxvrHeveBx7bRAljg5oJ/view?usp=sharing",
     about:{
         title:"Am a sophomore who loves to develop website and ml-model for the time to tick away.",
         desc:[
